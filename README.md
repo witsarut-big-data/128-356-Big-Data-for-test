@@ -39,9 +39,10 @@
 *   **Orchestration**: Apache Airflow
 
 ## 📊 การประเมินผล (Assessment)
-*   **Final Project**: 60%
+*   **Final Project**: 30%
 *   **Midterm Exam**: 15%
 *   **Final Exam**: 15%
+*   **Homework**: 30%
 *   **Attendance & Participation**: 10%
 
 ---
